@@ -1,0 +1,151 @@
+body {
+font-family: helvetica;
+background-color: rgb(211, 211, 211);
+background-image:url("images/lights.jpg");
+
+}
+
+h1{
+	color: orange;
+	background-image: ;
+	background-repeat: no-repeat;
+	font-family: courier;
+	font-weight: 100 ;
+	text-align: center;
+
+}
+
+img{
+
+	border-radius: 30px;
+}
+
+
+h2{
+
+	color: black;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 100;
+	letter-spacing: 2px;
+	text-align: center;
+}
+
+h3{
+
+	color: white;
+	font-size: 30px; 
+	font-family: 'Liu Jian Mao Cao', cursive;
+	text-align: center;
+
+}
+
+p{
+
+	color: white;
+	font-family: arial;
+	line-height: normal;
+}
+
+a{
+
+	color: rgb(255, 127, 80);
+}
+
+.etudes{
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 40px;
+	padding-top: 1px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 10px;
+	box-shadow: 10px 10px 20px black;
+}
+
+.exppro{
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 40px;
+	padding-top: 1px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 10px;
+	box-shadow: 10px 10px 20px black;
+}
+
+.langues{
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 40px;
+	padding-top: 1px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 10px;
+	box-shadow: 10px 10px 20px black;
+}
+
+.interets{
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 40px;
+	padding-top: 1px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 10px;
+	box-shadow: 10px 10px 20px black;
+}
+
+.Divers {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 40px;
+	padding-top: 1px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 10px;
+	box-shadow: 10px 10px 20px black;
+}
+
+.info {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 40px;
+	padding-top: 1px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 10px;
+	box-shadow: 10px 10px 20px black;
+}
+
+.prez{
+
+	text-align: center;
+}
+
+.logo2{
+
+	height: 150px;
+	width: 20px;
+	display: flex;
+	justify-content: space-between;
+	list-style: none;
+	margin-left: 46%; 
+}
+
+.logo3 {margin: 30%; padding: 5%; margin}
+
+.pp{
+
+	height: 150px;
+
+}
+
+.presentation {
+
+	color: white;
+	font-family: arial;
+	line-height: 40px;
+
+
+}
+
